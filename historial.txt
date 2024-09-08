@@ -1,0 +1,11 @@
+    1  ls
+    2  cat README 
+    3  git clone https://github.com/Santiago-Farias/farias_vagrant.git
+    4  ls
+    5  cat README 
+    6  cd farias_vagrant/
+    7  ls
+    8  cat README.md 
+    9  ls
+   10  history
+   11  history > historial.txt
