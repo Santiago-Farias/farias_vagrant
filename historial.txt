@@ -9,3 +9,99 @@
     9  ls
    10  history
    11  history > historial.txt
+   12  ls
+   13  cat historial.txt 
+   14  ls
+   15  git status
+   16  git add .
+   17  git status
+   18  git commit -m "Historial de comandos."
+   19  git config --global user.email "santifa8@gmail.com"
+   20  git config --global user.name "Santiago-Farias"
+   21  git commit -m "Historial de comandos."
+   22  git push
+   23  exit
+   24  ls
+   25  whoami
+   26  ls
+   27  pwd
+   28  man man
+   29  man pwd
+   30  ls -l
+   31  ls -a
+   32  man man
+   33  echo
+   34  echo "falopa"
+   35  echo falopa
+   36  ls
+   37  cat README 
+   38  asd
+   39  clear
+   40  ls
+   41  ls -la
+   42  ssh-keygen -t ed25519
+   43  ls
+   44  ls -la
+   45  cd .ssh/
+   46  ls
+   47  cat id_ed25519.pub 
+   48  cd ..
+   49  ls
+   50  cd repogit/
+   51  ls
+   52  cd
+   53  ls
+   54  cd farias_vagrant/
+   55  ls
+   56  cd
+   57  ls
+   58  cd repo
+   59* 
+   60  ls
+   61  git clone git@github.com:Santiago-Farias/farias_vagrant.git
+   62  ls
+   63  cd farias_vagrant/
+   64  ls
+   65  clear
+   66  ls
+   67  exit
+   68  ls
+   69  clear
+   70  ls
+   71  cat << eof >> archivo2.txt 
+a
+aa
+aaa
+aaaa
+aaaaa
+aaaaaa
+eof
+
+   72  cat archivo2.txt  | head -n2
+   73  cat archivo2.txt  | tail -n2
+   74  cat archivo2.txt | grep world
+   75  cat archivo2.txt | grep world to
+   76  cat archivo2.txt | grep world | grep to
+   77  cat archivo2.txt | grep world to -n
+   78  cat archivo2.txt | grep -n world to 
+   79  cat archivo2.txt | grep -n world
+   80  cat archivo2.txt | grep -n a
+   81  man grep
+   82  grep -i wo archivo2.txt 
+   83  grep -i proce /proc/cpuinfo
+   84  grep -i -n proce /proc/cpuinfo
+   85  grep -i -n model /proc/cpuinfo
+   86  cat /proc/cpuinfo | grep -i -n model
+   87  cat /proc/cpuinfo | grep -i -n hz
+   88  cat /proc/cpuinfo | grep -i -n model | grep name
+   89  cat /proc/cpuinfo | grep -in model
+   90  cat /proc/cpuinfo | grep -in model | grep name
+   91  history
+   92  man grep
+   93  history
+   94  ls
+   95  cd repogit/
+   96  ls
+   97  cd farias_vagrant/
+   98  ls
+   99  history > historial.txt 
